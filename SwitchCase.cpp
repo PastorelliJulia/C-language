@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// Exemplo simples se Switch case - Menu 
+// Exemplo simples de Switch case - Menu 
 
 int main() {
     int opcao;
